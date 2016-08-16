@@ -1,1 +1,45 @@
-style.css
+p {
+	color: white;
+}
+
+p {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+p {
+	font-weight: normal;
+}
+
+p {
+	font-size: 16px;
+}
+
+p {
+	font-style: normal;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+h1 {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+
